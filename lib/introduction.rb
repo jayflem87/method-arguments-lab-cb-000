@@ -1,4 +1,4 @@
 
 def introduction(name)
-  puts "Greetings #{name} in #{location}"
+  puts "Hi, my name is #{name} \n"
 end
