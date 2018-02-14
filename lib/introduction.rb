@@ -1,4 +1,4 @@
 
-def greeting(name, language)
+def introduction(name)
   puts "Greetings #{name} in #{location}"
 end
